@@ -6,4 +6,4 @@ A basic Habit Tracker Application based on FLutter Framework and Isar Database.
 
 | Light Mode                   | Dark Mode                    |
 |------------------------------|------------------------------|
-| ![light](lightMode.png)      | ![dark](![alt](darkMode.png))|
+| ![light](lightMode.png)      | ![dark](darkMode.png)        |
