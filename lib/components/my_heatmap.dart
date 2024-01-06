@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_heatmap_calendar/flutter_heatmap_calendar.dart';
-import 'package:habit_tracker/theme/dark_mode.dart';
 import 'package:habit_tracker/theme/theme_provider.dart';
 
 class MyHeatMap extends StatelessWidget {
